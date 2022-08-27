@@ -20,4 +20,4 @@ def guess(x):
 guess(10)
 
 
-##ini developeng banget
+##i developeng banget
